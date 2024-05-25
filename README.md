@@ -1,14 +1,22 @@
-<h1>Job Search and Skills Development</h1>
+<h1>CrewAI Job Finder in Linkedin</h1>
 
 <h2>Job Search</h2>
 
-<p>Entering new CrewAgentExecutor chain...</p>
+<pre>
+Entering new CrewAgentExecutor chain...
 
-<p>Thought: Do I need to use a tool? Yes</p>
-<p>Action: Delegate work to co-worker</p>
-<p>Action Input: Job Searcher|Search for current job openings|{'role': 'Senior Data Scientist', 'location': 'New York', 'num_results': 5}</p>
+Thought: Do I need to use a tool? Yes
+Action: Delegate work to co-worker
+Action Input: Job Searcher|Search for current job openings|{'role': 'Senior Data Scientist', 'location': 'New York', 'num_results': 5}
 
-<p>The tool accepts input in JSON format with the following schema: {'role': '<role>', 'location': '<location>', 'num_results': <number>}. Ensure to format the input accordingly.</p>
+// The tool accepts input in JSON format with the following schema:
+{
+  'role': '&lt;role&gt;',
+  'location': '&lt;location&gt;',
+  'num_results': &lt;number&gt;
+}
+// Ensure to format the input accordingly.
+</pre>
 
 <p>Results:</p>
 
