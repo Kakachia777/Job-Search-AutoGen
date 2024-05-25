@@ -1,6 +1,3 @@
-# Job-Search-CrewAI
-Experience the magic as all agents work together, providing a detailed report listing job opportunities, required skills, course recommendations, interview questions, and personalised career advice.
-
 <h1>Job Search and Skills Development</h1>
 
 <h2>Job Search</h2>
