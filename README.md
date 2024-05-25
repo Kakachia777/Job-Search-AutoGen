@@ -1,5 +1,7 @@
 <h1>CrewAI Job Finder in Linkedin</h1>
 
+<p align="center"> <img src="./photo.png" alt="Logo" width="1920" height="1080"> </p> 
+
 <h2>Job Search</h2>
 
 <pre>
