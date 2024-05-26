@@ -1,4 +1,4 @@
-<h1 align="center">AutoGen Job Finder in Linkedin 💼</h1>
+<h1 align="center">CrewAI Job Finder in Linkedin 💼</h1>
 
 <p align="center"> <img src="./Photo.png" alt="Logo" width="600" height="300"> </p> 
 
